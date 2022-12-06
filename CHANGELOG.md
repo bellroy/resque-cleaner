@@ -1,3 +1,7 @@
+## 0.4.2 (2022-12-05)
+
+* Change URI.encode for GCI.escape for Ruby 3 rendering
+
 ## 0.4.1 (2018-01-25)
 
 * Remove Requeue version lock (#46)
